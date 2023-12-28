@@ -1,5 +1,6 @@
 # House-rent-prediction-ML-streamlit-deploy
 - App is deployed on this url-->>[https://house-rent-prediction-ml-app-deploy-yiyotjs46xxm4phxwxtdwn.streamlit.app/]
+- View **House_rent_EDA.ipynb** to view various insights that could be obtained through EDA on the dataset.
 - View **house_rent_prediction.ipynb** -where I have done a little bit of EDA to gain insights, used SHAP analysis to select the best features and trained various models.
 - View **Final_rent_price.ipynb** -the refined notebook where I have used only the *selected features* obtained through SHAP and used the **HistGradientBoostingRegressor** model to run the entire dataset and save the model as a pickle file named **houserent_saved_steps_regressor.pkl**.    
 - - ## Regression R2 and RMSE score Table
