@@ -1,9 +1,9 @@
 # House-rent-prediction-ML-streamlit-deploy
 - App is deployed on this url-->>[https://house-rent-prediction-ml-app-deploy-yiyotjs46xxm4phxwxtdwn.streamlit.app/]
 ###  Project Demonstration video links:
-**Part1(Intro_ipynb_explanation)**
+- **Part1(Intro_ipynb_explanation)**
 - [https://drive.google.com/file/d/1vEJiSH4jW521hPM6zbgx8YdHHo5vWPkb/view?usp=sharing]
-**Part2(EDA)**
+- **Part2(EDA)**
 - [https://drive.google.com/file/d/1YciZt2I7PMlQqS5oNs35911NoYKf47zj/view?usp=sharing]
 - **Part3(pickling_deployment)**
 - [https://drive.google.com/file/d/1CFtv5bRy2p01JI01WrJj0B5l98UXOuwt/view?usp=sharing]
